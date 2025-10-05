@@ -70,3 +70,6 @@ It helps answer key questions such as:
 | Customer_Data.csv | Raw dataset used for churn analysis |
 | README.md | Project documentation |
 | churn_dashboard_screenshot.jpg | Dashboard preview image | 
+---------
+
+## 📊 Screenshot
